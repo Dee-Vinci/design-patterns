@@ -1,0 +1,96 @@
+repo_name: Dee-Vinci/design-patterns
+report_id: fd55761c95378dd899132dddad7064f9
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-09T17:42:37+00:00'
+requested_by: kanmaytacker
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns
+  detection_source: Repo Metadata
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Tanmay
+  last_updated_on: 2023-10-04 14:36:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns
+  detection_source: Repo Metadata
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Tanmay
+  last_updated_on: 2023-10-04 14:36:57.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  version: 1.18.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Tanmay
+  last_updated_on: 2023-10-04 14:36:57.000000000 Z
+- name: org.reflections:reflections
+  description: Reflections - a Java runtime metadata analysis
+  version: 0.9.12
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Tanmay
+  last_updated_on: 2023-10-04 14:36:57.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Dee-Vinci/design-patterns/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Tanmay
+  last_updated_on: 2023-10-04 14:36:57.000000000 Z
